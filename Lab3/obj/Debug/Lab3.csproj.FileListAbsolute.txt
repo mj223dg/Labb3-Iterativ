@@ -1,0 +1,2 @@
+C:\Users\Mattias\Desktop\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Mattias\Desktop\Lab3\Labb3-Iterativ\Lab3\bin\Debug\Lab3.exe.config
